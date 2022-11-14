@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------
+
+  THIS FILE IS BEING SHARE VIA GITHUB FOR THE PURPOSE OF EASY ACCESS BETWEEN THE PARTIES INVOLVED
+WE DO NOT FAVOUR COPIES OF THE CODE FOR LATER IMPLEMENTATION USE IN THE DISCIPLINE DESCRIBED BELOW!
+
+---------------------------------------------------------------------------------------------------
+
+Link: https://github.com/Di-dj0/xxxxx
+
+Description:
+Backups for the code used in BD.
+
+Students:
+Luiz Gustavo Comarella
+
+Prof.:
+Sidgley Camargo de Andrade
+
+Discipline: CP45E - 2022.2
